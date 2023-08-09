@@ -1,0 +1,36 @@
+body,html {
+    margin:auto;
+    border: solid 10px green;
+    }
+
+#destaque{
+    background-size: bottom center;
+    text-align: center;
+    font-family: Tahoma;
+    font-style: italic;
+    font-size: x-large;
+    color: orange;   
+}
+
+#produtos{
+    border: solid 5px orange;
+    text-align: justify;
+    }
+
+.item{
+    width: 50%;
+    border: solid 10px orange;
+    text-align: center;
+    }
+
+#informações{
+    border: solid 2px greenyellow;
+    text-align: center;
+    clear: both;
+}
+
+footer{
+    clear: both;
+    text-align: center;
+    } 
+
